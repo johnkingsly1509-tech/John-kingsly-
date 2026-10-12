@@ -1,0 +1,6 @@
+{
+  "name": "Study Master AI",
+  "description": "Your Personal AI Teacher — Learn in Tamil and English with personalized daily study plans and exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
